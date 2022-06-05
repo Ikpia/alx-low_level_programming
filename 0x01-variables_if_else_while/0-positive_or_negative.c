@@ -2,7 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
-/*if,els statement)*/
+/**
+ * main - Prints if number is positive or negative
+ * Return: Always (Success)
+*/
 
 int main(void)
 {
