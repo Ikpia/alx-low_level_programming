@@ -1,8 +1,5 @@
 #include <stdio.h>
-/**
-*main - input your code
-*return 0
-*/
+
 int main(void)
 {
 int n;
